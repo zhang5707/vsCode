@@ -1,0 +1,14 @@
+{
+    "liveServer.settings.donotShowInfoMsg": true,
+    "files.autoSave": "afterDelay",
+    "liveServer.settings.CustomBrowser": "chrome",
+    "emmet.triggerExpansionOnTab": true,
+    "background.useFront": true,
+    "background.useDefault": false,
+    "background.customImages": [],
+    "editor.minimap.enabled": false,
+    "background.enabled": false,
+    "editor.wordWrap": "on",
+    "extensions.ignoreRecommendations": false,
+    "explorer.confirmDelete": false
+}
