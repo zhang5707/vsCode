@@ -1,14 +1,86 @@
 {
-    "liveServer.settings.donotShowInfoMsg": true,
+    "breadcrumbs.enabled": true,
+    "editor.tabSize": 2,
+    "editor.renderWhitespace": "boundary",
+    "editor.cursorBlinking": "smooth",
+    "editor.minimap.renderCharacters": false,
+    "editor.fontFamily": "'Fira Code', 'Droid Sans Mono', 'Courier New', monospace, 'Droid Sans Fallback'",
+    "editor.fontLigatures": true,
+    "explorer.confirmDragAndDrop": false,
+    "extensions.autoUpdate": false,
+    "files.insertFinalNewline": true,
+    "git.autofetch": true,
+    "git.path": "F:\\Program Files\\Git\\cmd\\git.exe",
+    "search.exclude": {
+      "**/node_modules": true,
+      "**/dist": true
+    },
+    "typescript.locale": "zh-CN",
+    "window.titleBarStyle": "custom",
+    "window.title": "${dirty}${activeEditorMedium}${separator}${rootName}",
+    "window.zoomLevel": 0,
+    "workbench.activityBar.visible": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "eslint.validate": [
+      "javascript",
+      "javascriptreact",
+      "vue"
+    ],
+    "vsicons.projectDetection.autoReload": true,
+    "vsicons.dontShowNewVersionMessage": false,
+    "tslint.autoFixOnSave": true,
+    "debugwrapper.wrappers": {
+      "default": "console.log('$eSEL', $SEL)"
+    },
+    "prettier.tslintIntegration": false,
+    "cSpell.userWords": [
+      "Unmount"
+    ],
+    "jest.autoEnable": false,
     "files.autoSave": "afterDelay",
-    "liveServer.settings.CustomBrowser": "chrome",
-    "emmet.triggerExpansionOnTab": true,
-    "background.useFront": true,
-    "background.useDefault": false,
-    "background.customImages": [],
-    "editor.minimap.enabled": false,
-    "background.enabled": false,
-    "editor.wordWrap": "on",
-    "extensions.ignoreRecommendations": false,
-    "explorer.confirmDelete": false
-}
+    "[javascript]": {
+      "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "[json]": {
+      "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[html]": {
+      "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "fileheader.Author": "zhangyufeng",
+    "fileheader.LastModifiedBy": "zhangyufeng",
+    "files.associations": {
+      "*.vue": "vue"
+    },
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "eslint.alwaysShowStatus": true,
+    "[vue-html]": {
+    
+    },
+    "javascript.implicitProjectConfig.experimentalDecorators": true,
+    "sync.gist": "050160aee94b1cf97ba04eeaea98eb7e",
+    "eslint.nodePath": "",
+    "[vue]": {
+      "editor.defaultFormatter": "octref.vetur"
+    },
+    "[git-commit]": {
+  
+      "editor.rulers": [
+        72
+      ],
+      "workbench.editor.restoreViewState": false
+    },
+    "editor.rulers": [
+  
+    
+    ],
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.editorAssociations": {
+      "*.html": "default"
+    },
+    "explorer.confirmDelete": false,
+    "editor.semanticTokenColorCustomizations": null,
+    "editor.tokenColorCustomizations": null
+  }
